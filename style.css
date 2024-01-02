@@ -18,3 +18,10 @@ h1{
 .half-left img{
     width: 100%;
 }
+.top-banner{
+    background-image: url("developer-portfolio/top-banner.png");
+}
+section{
+    height: 500px;
+    background-repeat: no-repeat;
+}
