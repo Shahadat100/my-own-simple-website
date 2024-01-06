@@ -9,13 +9,16 @@ h1{
 .name-highlight{
     color: orange;
 }
-.half-left{
+p{
+    color: dimgray;
+}
+.half-width{
     width: 40%;
     float: left;
     margin-left: 2%;
     padding-left: 5%;
 }
-.half-left img{
+.half-width img{
     width: 100%;
 }
 .top-banner{
@@ -24,4 +27,22 @@ h1{
 section{
     height: 500px;
     background-repeat: no-repeat;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(lightsalmon,tomato );
+    color: white;
+}
+.single-expreience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 60%;
+    
+}
+.expreience-area{
+    background-image: url(developer-portfolio/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
 }
